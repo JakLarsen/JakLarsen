@@ -5,7 +5,7 @@ Emotify utilizes Neural-Navigation, allowing users to navigate a Spotify-inspire
  - You can play and pause, go next or previous, or even cycle between playlists, all with the use of your brain.
     - The idea is to give full control of the main audio functionality over to EEG-trained brainwave commands in place of the usual physical inputs in order to provide accessibility to those who might benefit from an alternative methodoloy. It could also have implications on things like hands-free music control in the future.
 
-- 📫 If you're curious about myself or Emotify, drop me an email at jacoblarsendk@gmail.com or toss me a message on linkedIn: https://www.linkedin.com/in/jacobwlarsen/
+- 📫 If you're curious about myself or Emotify, drop me an email at jacoblarsendk@gmail.com, head on mover to my personal website: https://jacobwlarsen.com, or toss me a message on linkedIn: https://www.linkedin.com/in/jacobwlarsen/
 - In any case, hope all is well :)
 
 
